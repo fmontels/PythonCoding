@@ -1,4 +1,4 @@
-# Test Pickle
+# Pickle
 Learn how to create and read a pickle file.
 
 ## Environment
